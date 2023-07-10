@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
+![localhost_4200_](https://github.com/NinuVJ/TemplateDrivenForm/assets/95735048/bcca1026-c4dc-4aa8-bbb0-451776fe6e1b)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
